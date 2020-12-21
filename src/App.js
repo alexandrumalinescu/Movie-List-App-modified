@@ -11,7 +11,8 @@ import './Styles/App.css';
 import Particles from 'react-particles-js';
 
 const particleOptions = {
-  particles: {
+  particles:
+   {
     line_linked: {
       shadow: {
         enable: true,
@@ -23,7 +24,8 @@ const particleOptions = {
 }
 
 const useStyles = makeStyles((theme) => ({
-  modal: {
+  modal: 
+  {
     color: 'white',
     display: 'flex',
     alignItems: 'center',
